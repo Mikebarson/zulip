@@ -1,7 +1,7 @@
 from __future__ import absolute_import
 from typing import Optional, Any
 from six import text_type
-from pyoembed import oEmbed, PyOembedException
+# from pyoembed import oEmbed, PyOembedException
 
 
 def get_oembed_data(url, maxwidth=640, maxheight=480):
